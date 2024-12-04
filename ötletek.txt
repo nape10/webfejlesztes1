@@ -1,0 +1,4 @@
+Thresh
+oldalak: története, kinézetek, képességek, rúnák és itemek, kérdőív
+JQuery: Chromák
+Kérdőív: név, email, jelszó, mikor volt az első meccsed a karakterrel(dátum), mennyi hősismereti pontod van thresh-el(szám), mi a kedvenc thresh skined(radio), ha van ötleted jobb tárgyra vagy rúnára, írd ide(textarea): -ennyi elég-
